@@ -1,0 +1,7 @@
+opencv-python
+numpy 
+matplotlib
+imutils
+keras_ocr
+scikit-image
+pandas
